@@ -4,7 +4,6 @@ import Workflow1.Login;
 import Workflow1.Logout;
 import Workflow1.PimModule;
 import Workflow1.utils;
-import Workflow1.Logout;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;

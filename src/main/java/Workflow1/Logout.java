@@ -9,5 +9,6 @@ public class Logout {
 	public static void logout(WebDriver driver) {
 		driver.findElement(LogoutLocators.ProfileDropdown).click();
 		driver.findElement(LogoutLocators.logout).click();
+		System.out.println("Logged Out Successfully");
 	}
 }
