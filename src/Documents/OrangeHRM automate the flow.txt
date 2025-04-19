@@ -1,0 +1,28 @@
+Automate the Login Flow.
+
+
+Navigate to the PIM module:
+
+
+After logging in, the mouse hovers over PIM and clicks on it.
+Add Employees:
+
+
+On the PIM page, click on "Add Employee" and add 3-4 employees.
+
+
+Verify Employees in the Employee List:
+
+
+Navigate to the "Employee List" page.
+
+
+Scroll through the list and locate the employees added.
+
+
+Verify their names and print "Name Verified" once found.
+
+
+Log Out from the Dashboard.
+
+
